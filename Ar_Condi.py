@@ -1,3 +1,6 @@
+# Créditos: pedrosantos13s
+# Esse código gera valores randomicos em distribuição normal de temperatura e voltagem para transferir via IP a um outro PC recebdno esses dados
+
 import numpy
 import json 
 from socket import *
